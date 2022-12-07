@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://John-Doe-s-workspace-un7ds5.us-east-1.xata.sh/db/review-app",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
